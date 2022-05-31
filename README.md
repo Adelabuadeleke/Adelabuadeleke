@@ -9,6 +9,7 @@
   <a href="https://twitter.com/adelabukamal">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+<p align="left"> <a href="https://twitter.com/adelabukamal" target="blank"><img src="https://img.shields.io/twitter/follow/adelabukamal?logo=twitter&style=for-the-badge" alt="adelabukamal"" /></a> </p>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Adelabuadeleke&style=flat-square&color=blue" alt=""/>
 
