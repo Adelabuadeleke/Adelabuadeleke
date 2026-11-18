@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
 <div id="badges">
@@ -21,7 +21,7 @@
 </div>
 
 
-### :man_technologist: About Me👇🏾 :
+### :man_technologist: About Me 👇🏾 :
 
 I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
